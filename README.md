@@ -15,6 +15,8 @@ SPACE - run 1 step
 R - do random initial configuration  
 X - clear board  
 
+Note: when using the clone/download repository button, the executable file won't be downloaded properly as it is too big. Click on it and 
+there you will see another download button
 
 The game set up and main loop is run in main.py using functions defined in confunct.py and creating an object-oriented user interface
 with the classed defined in conUI.py  
